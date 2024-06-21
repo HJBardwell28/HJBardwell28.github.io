@@ -1,12 +1,6 @@
-<html>
- <head>
-  <style>
-   body {
-    backgroundColor: #22272e;
-   }
-  </style>
- </head>
-</html>
+body {
+ backgroundColor: #22272e;
+}
 
 # Welcome!
 ## Games
