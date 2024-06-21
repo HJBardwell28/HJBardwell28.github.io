@@ -1,8 +1,12 @@
-<style>
-  * {
+<html>
+ <head>
+  <style>
+   body {
     backgroundColor: #22272e;
-  }
-</style>
+   }
+  </style>
+ </head>
+</html>
 
 # Welcome!
 ## Games
