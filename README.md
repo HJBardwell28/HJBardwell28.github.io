@@ -1,3 +1,3 @@
 # Welcome!
 ## Games
-> - [Boxi]()
+> - [Boxi](./boxi/index.html)
